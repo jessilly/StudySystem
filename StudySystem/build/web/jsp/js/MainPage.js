@@ -1,0 +1,5 @@
+function getStudentInfo()
+{
+	$("#stuForm").submit();
+}
+

@@ -1,0 +1,15 @@
+@charset "utf-8";
+
+/*添加按钮*/
+#selectClassAdd{float:right;text-align:center;display: inline-block;margin-right:3%;margin-top:-13px;font-size: 15px;border-radius:10px;border:2px solid rgba(255,255,255,0.8);height:25px;line-height: 25px;width:100Px;}
+#selectClassAdd:hover{border:2px dashed rgba(255,255,255,0.8);background:rgba(255,204,51,0.6);color:white;cursor: pointer;}
+/*表格样式*/
+.select_col1{width:25%;border-top:1px solid rgba(255,0,102,0.6);}
+.select_col2{width:15%;border-top:1px solid rgba(255,0,102,0.6);}
+.select_col3{width:20%;border-top:1px solid rgba(255,0,102,0.6);}
+.select_col4{width:20%;border-top:1px solid rgba(255,0,102,0.6);}
+.select_col5{width:20%;border-top:1px solid rgba(255,0,102,0.6);}
+.select_top{border-top:none;font-size: 17px;}
+
+/*选课添加页面每行样式*/
+.selAddsel{margin-top:-5px;}

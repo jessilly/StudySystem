@@ -1,0 +1,20 @@
+@charset "utf-8";
+
+/*院系上标题样式*/
+#institude_head{margin:10px auto;padding:25px;border:2px dashed white;width:93%;border-radius:20px;color:orange;font-family: 幼圆;font-weight: bold;}
+.in_Info{margin-right:50px;}
+.in_input{padding:3px 5px;}
+#yuanxiAdd{float:right;text-align:center;display: inline-block;font-size: 15px;border-radius:10px;border:2px solid rgba(255,255,255,0.8);height:25px;line-height: 25px;width:70Px;}
+#yuanxiAdd:hover{border:2px dashed rgba(255,255,255,0.8);background:rgba(255,204,51,0.6);color:white;cursor: pointer;}
+
+/*院系表格样式*/
+#in_table_block{width:92%;border:5px solid rgba(255,0,102,0.2);border-collapse:separate;border-radius:20px;margin:10px auto;text-align: center;}
+.in_col1{width:35%;border-top:1px solid rgba(255,0,102,0.6);}
+.in_col2{width:40%;border-top:1px solid rgba(255,0,102,0.6);}
+.in_col3{border-top:1px solid rgba(255,0,102,0.6);}
+#in_head_tr{height:40px;font-weight: bold;}
+.in_top{border-top:none;font-size: 17px;}
+
+.in_del:hover{color:rgba(51,51,204,1);font-weight: bold;cursor: pointer;}
+
+

@@ -1,0 +1,34 @@
+@charset "utf-8";
+
+/*链接样式*/
+a:hover{text-decoration: none;}
+/*标题处*/
+#header_bar{text-align:center;height:90px;margin:5px 5px;line-height: 90px;border-radius:30px;border:3px dashed white;font-size: 30px;background:rgba(0,102,255,0.3);}
+
+/*下面区块*/
+#content{height:520px;background:rgba(255,239,213,0.5);border:4px solid rgba(153,85,255,0.1);border-radius:20px;padding:10px 10px 40px 10px;margin:0 10px;}
+
+/*左边导航栏*/
+#content_left{float:left;padding-left:10px;width:18%;}
+.block_link{border:2px solid rgba(255,117,80,0.4);border-radius:5px;padding:4px;text-align:center;width:200px;font-size:18px;margin:15px 20px 0 20px;}
+.block_link:hover{background:rgba(0,191,255,0.2);border:2px dashed white;color:white;}
+
+/*右边信息栏*/
+#content_right{background:rgba(255,140,0,0.2);border-radius:30px;width:80%;height:100%;float:left;}
+#stuInfo{border:4px dashed rgba(255,255,255,0.6);height:50px;line-height: 50px;margin:20px 20px;font-size: 15px;padding-left:20px;border-radius: 20px;}
+#span_yuanxi{display:inline-block;margin-right:40px;}
+#search_button{display:inline-block;color:white;border:2px solid rgba(255,255,255,0.7);margin-left:90px;border-radius:5px;width:70px;text-align:center;height:25px;line-height: 25px}
+#search_button:hover{cursor: pointer;background:rgba(72,209,204,0.2);border:2px dashed rgba(255,255,255,1);}
+.select_student{padding:2px;height:28px;border:1px solid rgba(192,192,192,0.8);border-radius: 3px;}
+#search_button1{margin-left:150px;;margin-right:-50px;background:none;border:2px solid white;width:75px;height:29px;border-radius:5px;line-height:29px;}
+#search_button1:hover{background:rgba(72,209,204,0.2);border:2px dashed rgba(255,255,255,1);cursor: pointer;}
+/*表格样式*/
+#stuInfoTable{border-radius:30px;margin:20px;}
+#stuTableContent{width:100%;background:rgba(255,255,255,0.8);border:2px dashed rgba(255,99,71,0.5);text-align: center;}
+tr{height:28px;}
+#tr_head{height:38px;color:#FF8C00;font-weight: 800;}
+.option:hover{color:rgba(51,51,204,1);font-weight: bold;}
+.col1{width:30%;border:1px solid orange;}
+.col2{width:15%;border:1px solid orange;}
+.col3{width:10%;border:1px solid orange;}
+.col4{width:40%;border:1px solid orange;}
